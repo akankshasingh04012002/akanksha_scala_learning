@@ -1,0 +1,3 @@
+class Train(number: Int) {
+
+}
